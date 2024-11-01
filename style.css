@@ -1,0 +1,77 @@
+#wpp_donate {
+	background-color: #eee;
+	border: 1px solid #333;
+	font-size: 70%;
+	margin: 20px;
+	padding: 10px 20px;
+	width: 200px;
+	float: right;
+	text-align: center;
+}
+
+.wpp_key {
+	border-width: 1px;
+	border-style: solid;
+	border-color: #555;
+	padding: 0 0.6em 10px 0.6em;
+	margin: 5px 0px 2px;
+	-moz-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	background-color: #fefefe;
+	color: #555;
+	font-size: 80%;
+	clear: none;
+	float: right;
+}
+
+.wpp_key h4 {
+	margin: 5px 0 0 0;
+	padding: 0;
+}
+
+.wpp_key ul, li {
+	margin: 0 0 0 5px;
+	padding: 0;
+	font-size: 100%
+}
+
+.wpp_table {
+	width: 300px;
+}
+
+.wpp_table tr {
+	vertical-align: middle;
+	margin: 0;
+	padding: 0;
+}
+
+.wpp_table tr th {
+	font-size: 110%;
+	font-weight: bold;
+}
+
+.wpp_table tr td {
+	padding: 0 5px;
+	margin: 0;
+	text-align: center;
+}
+
+.wpp_table input {
+	margin: 0;
+}
+
+.wpp_even {
+	background-color: #eee;
+}
+
+.wpp_odd {
+	background-color: #ddd;
+}
+
+#wpp_footer {
+	width: 100%;
+	text-align: center;
+	font-size: 80%;
+}
